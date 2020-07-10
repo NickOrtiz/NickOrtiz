@@ -1,16 +1,12 @@
-### Hi there 👋
+```
+ooooo      ooo   .oooooo.   ooooooooo.   ooooooooooooo 
+`888b.     `8'  d8P'  `Y8b  `888   `Y88. 8'   888   `8 
+ 8 `88b.    8  888      888  888   .d88'      888      
+ 8   `88b.  8  888      888  888ooo88P'       888      
+ 8     `88b.8  888      888  888`88b.         888      
+ 8       `888  `88b    d88'  888  `88b.       888      
+o8o        `8   `Y8bood8P'  o888o  o888o     o888o    
+```
 
-<!--
-**NickOrtiz/NickOrtiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Pronouns: He/Him
+Title: Remote Frontend Engineer
