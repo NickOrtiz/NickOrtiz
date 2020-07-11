@@ -7,9 +7,12 @@ ooooo      ooo   .oooooo.   ooooooooo.   ooooooooooooo
  8       `888  `88b    d88'  888  `88b.       888      
 o8o        `8   `Y8bood8P'  o888o  o888o     o888o    
 ```
+---
 
 **Pronouns:** He/Him
 
 **Title:** Remote Frontend Engineer
 
 **Interests:** Heavy Music/Web Tech/RaspberryPi/Security
+
+---
