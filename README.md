@@ -16,6 +16,7 @@
 
 **Pronouns:** He/Him  
 **Title:** Frontend Engineer  
-**Interests:** Heavy Music/WebTech/RaspberryPi/Security/🜏
+**Technical Interests:** Web/Performance/Security/RaspberryPi
+**Non-Tech Interests:** Heavy Music/Politics/🜏
 
 ---
