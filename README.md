@@ -15,7 +15,9 @@
 > 
 > Web Performance, WordPress, Headless, Scaling, Accessibility
 > 
-> Data Science, APIs, Data Scraping, Data Viz, Information Security
+> Data Science, APIs, Data Scraping, Data Viz, Analytics, Information Security
+> 
+> Design, UI, UX, Animation
 > 
 > RaspberryPi/Arduino
 > 
