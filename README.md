@@ -10,7 +10,7 @@
 > Design, UI, UX, Animation
 > 
 > RaspberryPi/Arduino
-> 
-> **Note** **Non-Tech Interests:** 
+
+> **Non-Tech Interests:** 
 > 
 > Audio Engineering, Heavy Music, Synths
