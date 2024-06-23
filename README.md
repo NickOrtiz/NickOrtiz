@@ -1,7 +1,7 @@
 **Pronouns:** He/Him  
 **Title:** Senior Frontend Engineer  
 
-> **Note** **Interests:** 
+> **Interests:** 
 > 
 > Web Performance, WordPress, Headless, Scaling, Accessibility
 > 
