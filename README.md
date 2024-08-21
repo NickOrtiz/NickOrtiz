@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Nick Ortiz
+# Hello, I'm Nick Ortiz
 
 ## 🚀 Senior Frontend Engineer | He/Him
 
