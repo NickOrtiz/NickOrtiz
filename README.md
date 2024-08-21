@@ -1,16 +1,20 @@
-**Pronouns:** He/Him  
-**Title:** Senior Frontend Engineer  
+# 👋 Hello, I'm Nick Ortiz
 
-> **Interests:** 
-> 
-> Web Performance, WordPress, Headless, Scaling, Accessibility
-> 
-> Data Science, APIs, Data Scraping, Data Viz, Analytics, Information Security
-> 
-> Design, UI, UX, Animation
-> 
-> RaspberryPi/Arduino
+## 🚀 Senior Frontend Engineer | He/Him
 
-> **Non-Tech Interests:** 
-> 
-> Audio Engineering, Heavy Music, Synths
+### 💻 Tech Passions
+- 🌐 Web Performance | WordPress | Headless CMS | Scaling
+- ♿ Accessibility Advocate
+- 📊 Data Science | APIs | Data Scraping & Visualization
+- 📈 Analytics | Information Security
+- 🎨 UI/UX Design | Animation
+- 🥧 RaspberryPi & Arduino Tinkerer
+
+### 🎸 When I'm Not Coding
+- 🎚️ Audio Engineering Enthusiast
+- 🤘 Heavy Music Aficionado
+- 🎹 Synth Experimenter
+
+---
+
+💡 Exploring the intersection of technology and creativity.
