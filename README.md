@@ -11,9 +11,9 @@
 - 🥧 RaspberryPi & Arduino Tinkerer
 
 ### 🎸 When I'm Not Coding
-- 🎚️ Audio Engineering Enthusiast
-- 🤘 Heavy Music Aficionado
-- 🎹 Synth Experimenter
+- 🎚️ Audio Engineering
+- 🤘 Heavy Music 
+- 🎹 Synth Experiments
 
 ---
 
