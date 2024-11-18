@@ -1,6 +1,6 @@
-# Hello, I'm Nick Ortiz
+# Hello, I'm Nick Ortiz (He/Him)
 
-## Senior Frontend Engineer | He/Him
+## Senior Frontend Engineer
 
 ### 💻 Tech Passions
 - 🌐 Web Performance | WordPress | Headless CMS | Scaling
