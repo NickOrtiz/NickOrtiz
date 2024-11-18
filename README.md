@@ -6,7 +6,8 @@
 - 🌐 Web Performance | WordPress | Headless CMS | Scaling
 - ♿ Accessibility Advocate
 - 📊 Data Science | APIs | Data Scraping | Data Viz
-- 📈 Analytics | Information Security
+- 📈 Analytics
+- 🔒 Information Security
 - 🎨 UI/UX Design | Animation
 - 🥧 RaspberryPi & Arduino Tinkerer
 
