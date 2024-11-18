@@ -4,9 +4,8 @@
 
 ### 💻 Tech Passions
 - 🌐 Web Performance | WordPress | Headless CMS | Scaling
-- ♿ Accessibility Advocate
-- 📊 Data Science | APIs | Data Scraping | Data Viz
-- 📈 Analytics
+- 📊 Data Science | Analytics | Data Scraping | Data Viz
+- ♿ Accessibility 
 - 🔒 Information Security
 - 🎨 UI/UX Design | Animation
 - 🥧 RaspberryPi & Arduino Tinkerer
