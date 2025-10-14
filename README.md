@@ -1,9 +1,10 @@
 # 👋 Hello, I'm Nick Ortiz (He/Him)  
-### Senior Frontend Engineer 
+### Frontend Experience Engineer 
+#### Senior Frontend Engineer | Experience-Led Interface Design | AI-Supported Full-Cycle Engineer
 #### WordPress | React | A11y | Performance
 
 ## 📢 Open to Work!
-I’m currently seeking opportunities as a **Senior Frontend Engineer / UI Engineer / WordPress Specialist** where I can combine deep **WordPress/Gutenberg expertise** with modern **React + TypeScript** to build performant, accessible, and scalable solutions.  
+I’m currently seeking opportunities as a **Senior Frontend Engineer / UI Engineer / WordPress Specialist** where I can combine deep **WordPress/Gutenberg expertise** with modern **React + TypeScript** to build performant, accessible, and scalable experiences.  
 
 ### 🔗 Links
 - 🌐 [Personal Site](https://NickOrtiz.com)  
