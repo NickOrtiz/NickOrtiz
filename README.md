@@ -25,4 +25,4 @@ I’m currently seeking opportunities as a **Senior Frontend Engineer / UI Engin
 - 👪 Family time above all  
 
 ---
-⭐️ *Open to collaborating on frontend, data viz, and accessibility-focused projects. Let’s connect!*  
+⭐️ *Open to collaborating on frontend, data viz, and accessibility-focused experiences. Let’s connect!*  
