@@ -1,5 +1,3 @@
-#  I’m Nick Ortiz
-
 ### Experience Engineer
 Designing and building scalable interface systems
 with a focus on accessibility, performance, and behavior.
